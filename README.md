@@ -1,46 +1,117 @@
-# [👍CODARY 서비스 소개 문서로 이동](https://www.notion.so/CODARY-0e3601abb20b4e0d848b525c2ecb29ad)
+# CODARY 최종발표
 
-# [🎶CODARY UCC로 이동](https://youtu.be/qwzbtwizrYk)
+# 💡목차
 
-# [💡CODARY 시연영상으로 이동](https://youtu.be/Y5BeThfWCWI)
+# 🎶CODARY 소개 UCC
 
-![image](https://user-images.githubusercontent.com/60100901/108371299-f5aa8a80-7240-11eb-8b09-fcd351c62cf8.png)
+[https://youtu.be/qwzbtwizrYk](https://youtu.be/qwzbtwizrYk)
 
-![image](https://user-images.githubusercontent.com/60100901/108371309-f93e1180-7240-11eb-85bb-2899e883caa1.png)
+# 📝프로젝트 개요
 
-![image](https://user-images.githubusercontent.com/60100901/108371317-fc390200-7240-11eb-8480-105829b20c26.png)
+### 팀원소개
 
-![image](https://user-images.githubusercontent.com/60100901/108371323-fe02c580-7240-11eb-9a74-dc3a40ea9884.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371332-00fdb600-7241-11eb-8dc2-f603884abef8.png)
+### **프로젝트 주제**
 
-![image](https://user-images.githubusercontent.com/60100901/108371343-03601000-7241-11eb-9c1f-19bf08c5060d.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%201.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%201.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371356-05c26a00-7241-11eb-996b-1bf0e15a6579.png)
+저희 코다리는 **개발자들을 위한 블로그 플랫폼 서비스**입니다. 
+기술 관련 문서를 편하게 작성할 수 있도록 돕고, 관심분야의 다른 사람 포스트를 쉽게 조회, 
+요약 정리 할 수 있는 커뮤니티형 블로그 플랫폼입니다.
 
-![image](https://user-images.githubusercontent.com/60100901/108371368-0824c400-7241-11eb-9335-a403f1caaeb0.png)
+### 프로젝트 아키텍쳐
 
-![image](https://user-images.githubusercontent.com/60100901/108371379-0a871e00-7241-11eb-9157-26074d5a6319.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/2.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/2.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371410-107cff00-7241-11eb-8c58-6f48c2fbc5f0.png)
+### **프로젝트 유스케이스 다이어그램**
 
-![image](https://user-images.githubusercontent.com/60100901/108371418-12df5900-7241-11eb-8ce9-3e056cd96d1f.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%202.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%202.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371430-14a91c80-7241-11eb-8b2e-bb85e992a515.png)
+# ✅프로젝트 상세 기능
 
-![image](https://user-images.githubusercontent.com/60100901/108371442-170b7680-7241-11eb-8caf-8d3d93ac4c40.png)
+# 👨‍💻Front-end
 
-![image](https://user-images.githubusercontent.com/60100901/108371445-18d53a00-7241-11eb-950c-699816b3a696.png)
+## 1. 페이지 구성
 
-![image](https://user-images.githubusercontent.com/60100901/108371459-1d99ee00-7241-11eb-8934-e62e64ba613a.png)
+- **메인 페이지**
 
-![image](https://user-images.githubusercontent.com/60100901/108371473-212d7500-7241-11eb-9381-4ebf82325346.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%203.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%203.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371482-238fcf00-7241-11eb-8fda-ab5016e2e945.png)
+- **검색 페이지**
 
-![image](https://user-images.githubusercontent.com/60100901/108371489-25599280-7241-11eb-9670-05c6e1bb9031.png)
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%204.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%204.png)
 
-![image](https://user-images.githubusercontent.com/60100901/108371498-27bbec80-7241-11eb-86f1-d0b749bb517a.png)
+- **게시글 페이지**
 
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%205.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%205.png)
 
+- **메모 페이지**
 
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%206.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%206.png)
+
+- **블로그 홈 페이지**
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%207.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%207.png)
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%208.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%208.png)
+
+- **글 작성페이지**
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%209.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%209.png)
+
+- **다크모드**
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2010.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2010.png)
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2011.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2011.png)
+
+# 👩‍💻Back-end
+
+## 1. 프로젝트 요청 흐름
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2012.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2012.png)
+
+## 2. 소셜로그인
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2013.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2013.png)
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2014.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2014.png)
+
+소셜로그인을 이용한 간편한 회원가입 절차를 제공합니다.
+
+## 3. 댓글 알림 기능
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2015.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2015.png)
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2016.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2016.png)
+
+댓글 알림 기능을 통해 내 게시글에 대한 다른 회원들의 반응을 확인할 수 있습니다. 
+
+## 4. 잔디 기능
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2017.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2017.png)
+
+잔디 기능을 이용해서 사용자의 블로그 활동기록을 확인할 수 있습니다. 
+
+## 5. 해시태그 기능
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/ezgif.com-gif-maker_(1).gif](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/ezgif.com-gif-maker_(1).gif)
+
+해시태그 정보를 제공하여 최근 트랜드 확인과 게시글 카테고리 분류를 돕습니다.
+
+## 6. 댓글 기능
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2018.png](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/Untitled%2018.png)
+
+댓글을 통해 게시글에 대한 피드백과 소통이 가능하도록 돕습니다.
+
+## 7. 메모 기능
+
+![CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/ezgif.com-gif-maker_(2).gif](CODARY%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%208d804c00aeb34a169ef906076d32e16f/ezgif.com-gif-maker_(2).gif)
+
+메모기능을 통해 내게 필요한 내용만을 정리할 수 있도록 돕습니다.
+
+# 👨‍💻CODARY 시연영상
+
+[https://youtu.be/Y5BeThfWCWI](https://youtu.be/Y5BeThfWCWI)
