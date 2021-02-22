@@ -14,7 +14,7 @@
 
 ### **프로젝트 주제**
 
-![Untitled 1](./image/Untitled 1.png)
+![Untitled1](./image/Untitled1.png)
 
 저희 코다리는 **개발자들을 위한 블로그 플랫폼 서비스**입니다. 
 기술 관련 문서를 편하게 작성할 수 있도록 돕고, 관심분야의 다른 사람 포스트를 쉽게 조회, 
@@ -26,7 +26,7 @@
 
 ### **프로젝트 유스케이스 다이어그램**
 
-![Untitled 2](./image/Untitled 2.png)
+![Untitled2](./image/Untitled2.png)
 
 # ✅프로젝트 상세 기능
 
@@ -36,61 +36,61 @@
 
 - **메인 페이지**
 
-![Untitled 3](./image/Untitled 3.png)
+![Untitled3](./image/Untitled3.png)
 
 - **검색 페이지**
 
-![Untitled 4](./image/Untitled 4.png)
+![Untitled4](./image/Untitled4.png)
 
 - **게시글 페이지**
 
-![Untitled 5](./image/Untitled 5.png)
+![Untitled5](./image/Untitled5.png)
 
 - **메모 페이지**
 
-![Untitled 6](./image/Untitled 6.png)
+![Untitled6](./image/Untitled6.png)
 
 - **블로그 홈 페이지**
 
-![Untitled 7](./image/Untitled 7.png)
+![Untitled7](./image/Untitled7.png)
 
-![Untitled 8](./image/Untitled 8.png)
+![Untitled8](./image/Untitled8.png)
 
 - **글 작성페이지**
 
-![Untitled 9](./image/Untitled 9.png)
+![Untitled9](./image/Untitled9.png)
 
 - **다크모드**
 
-![Untitled 10](./image/Untitled 10.png)
+![Untitled10](./image/Untitled10.png)
 
-![Untitled 11](./image/Untitled 11.png)
+![Untitled11](./image/Untitled11.png)
 
 # 👩‍💻Back-end
 
 ## 1. 프로젝트 요청 흐름
 
-![Untitled 12](./image/Untitled 12.png)
+![Untitled12](./image/Untitled12.png)
 
 ## 2. 소셜로그인
 
-![Untitled 13](./image/Untitled 13.png)
+![Untitled13](./image/Untitled13.png)
 
-![Untitled 14](./image/Untitled 14.png)
+![Untitled14](./image/Untitled14.png)
 
 소셜로그인을 이용한 간편한 회원가입 절차를 제공합니다.
 
 ## 3. 댓글 알림 기능
 
-![Untitled 15](./image/Untitled 15.png)
+![Untitled15](./image/Untitled15.png)
 
-![Untitled 16](./image/Untitled 16.png)
+![Untitled16](./image/Untitled16.png)
 
 댓글 알림 기능을 통해 내 게시글에 대한 다른 회원들의 반응을 확인할 수 있습니다. 
 
 ## 4. 잔디 기능
 
-![Untitled 17](./image/Untitled 17.png)
+![Untitled17](./image/Untitled17.png)
 
 잔디 기능을 이용해서 사용자의 블로그 활동기록을 확인할 수 있습니다. 
 
@@ -102,7 +102,7 @@
 
 ## 6. 댓글 기능
 
-![Untitled 18](./image/Untitled 18.png)
+![Untitled18](./image/Untitled18.png)
 
 댓글을 통해 게시글에 대한 피드백과 소통이 가능하도록 돕습니다.
 
