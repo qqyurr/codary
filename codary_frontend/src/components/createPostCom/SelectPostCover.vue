@@ -98,13 +98,10 @@ export default {
     selectcover(cover) {
       this.selectImage = cover;
       alert('밑에 선택버튼을 눌러주세요!');
-      // this.$emit('GETCOVER', cover);
-      // console.log(cover);
     },
     selectImg(img) {
       this.uploadImg = img;
       this.upload();
-      // console.log(this.currentImg);
     },
     upload() {
       if (this.uploadImg === '') {

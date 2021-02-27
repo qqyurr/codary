@@ -83,7 +83,6 @@ export default {
     };
   },
   mounted() {
-    // 코드펜 임베드 나중에
     function youtubePlugin() {
       Editor.codeBlockManager.setReplacer('youtube', (youtubeId) => {
         // Indentify multiple code blocks

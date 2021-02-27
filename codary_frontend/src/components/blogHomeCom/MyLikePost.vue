@@ -37,9 +37,9 @@
           >
             <v-hover v-slot="{ hover }">
               <v-card
-                :elevation="hover ? 12 : 2"
+                :elevation="hover ? 7 : 0"
                 class="contentCard"
-                style="height: 400px; transition: 1s"
+                style="height: 400px; transition: 0.3s"
               >
                 <div>
                   <v-img
@@ -67,7 +67,7 @@
                 </div>
                 <!-- 텍스트 -->
                 <v-sheet class="pl-5 pa-2" height="150px">
-                  <h2 class="font-weight-bold mb-3 pl-0 ml-0 mr-5">
+                  <h2 class="font-weight-bold mb-3 pl-0 ml-1 mr-5">
                     {{ blogContentsTitle | textLengthOverCutTitle }}
                   </h2>
                   <h4 class="mb-2 pl-1">
@@ -76,13 +76,12 @@
                       :key="hashtag.hashtagId"
                       outlined
                       small
-                      class="mr-2"
+                      class="mr-2 mb-1"
                       >{{ hashtag.hashtagContent }}</v-chip
                     >
                   </h4>
                 </v-sheet>
-                 <div class="d-flex align-end mr-3 px-3 mt-6 justify-space-between">
-                  
+                 <div class="d-flex align-end mr-3 px-3 mt-3 justify-space-between">       
                   <div class="d-flex align-center pl-1 mb-2">
                     <v-img
                       :src="profile"
@@ -119,7 +118,7 @@
         </v-col>
       </v-row>
     </v-container>
-    <div class="py-16"></div>
+    <div class="py-12"></div>
   </section>
 </template>
 

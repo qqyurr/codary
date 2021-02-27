@@ -65,7 +65,7 @@
                 </div>
                 <!-- 텍스트 -->
                 <v-sheet class="pl-5 pa-2" height="150px">
-                  <h2 class="font-weight-bold mb-3 pl-0 ml-0 mr-5">
+                  <h2 class="font-weight-bold mb-3 pl-0 ml-1 mr-5">
                     {{ blogContentsTitle | textLengthOverCutTitle }}
                   </h2>
                   <h4 class="mb-2 pl-1">

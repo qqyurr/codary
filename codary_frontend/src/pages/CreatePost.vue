@@ -10,14 +10,12 @@
 
 <script>
 import Editor from "../components/createPostCom/Editor.vue";
-// import PostName from "../components/createPostCom/PostName.vue";
 import SelectPostCover from "../components/createPostCom/SelectPostCover.vue";
 import { writeContent, modifyContent } from "@/api/blogcontent.js";
 import { getuidCookie, getblogIdCookie } from "@/util/cookie.js";
 
 export default {
   name: "CreatePost",
-  // components: { Editor, SelectPostCover, PostName },
   components: { Editor, SelectPostCover },
   data() {
     return {
@@ -62,17 +60,6 @@ export default {
       this.blogContents.blogContentsTitle = title;
       this.blogContents.blogId = this.user.blogId;
       this.blogContents.hashTag = selectedTags;
-      // console.log(this.blogContents);
-      // this.axios
-      //   .post(`blog`, this.blogContents)
-      //   .then(() => {
-      //     // console.log(res.data);
-      //     // this.blogContents = res.data;
-      //     this.$router.push("/searchpage");
-      //   })
-      //   .catch((err) => {
-      //     console.log(err);
-      //   });
       if (this.blogContents.blogContentsId !== "") {
         modifyContent(
           this.blogContents,

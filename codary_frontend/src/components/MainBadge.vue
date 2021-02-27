@@ -1,7 +1,7 @@
 <template>
   <v-menu v-model="menu" :close-on-content-click="true" offset-y>
     <template v-slot:activator="{ on, attrs }">
-      <v-badge bordered overlap :content="commentCnt" class="pb-2" offset-x="10" offset-y="20">
+      <v-badge bordered overlap :content="commentCnt" class="pb-1" offset-x="10" offset-y="20">
         <span style="font-size: 35px">
           <font-awesome-icon :icon="['fas', 'user-circle']" v-bind="attrs" v-on="on" />
         </span>
